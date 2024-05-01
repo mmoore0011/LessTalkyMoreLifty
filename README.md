@@ -40,7 +40,7 @@ dumbell shoulder flys\
 overhead tris
 
 ## Thursday (bi focus)
-### Superset 1\
+### Superset 1
 lat pulldowns\
 cable bicep curl\
 deadlift
@@ -51,7 +51,7 @@ pull down machine\
 bicep curls
 
 ## Friday (heavy fun stuff)
-### Superset 1\
+### Superset 1
 bench press\
 row\
 farmers carry
