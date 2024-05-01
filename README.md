@@ -6,13 +6,13 @@
 
 ## Monday (chest and tri focus)
 ### Superset 1
-- by the water fountain\
+_by the water fountain_
 chest press machine\
 cable flys\
 leg press
 
 ### Superset 2
-- by the dumbells\
+_by the dumbells_
 dumbell shoulder press\
 tri pulldowns\
 split squats
