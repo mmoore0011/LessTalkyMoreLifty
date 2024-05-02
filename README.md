@@ -61,3 +61,35 @@ shoulder press white machine\
 pull down white machine\
 leg extensions\
 hamstring curls
+
+## Saturday (recharge focus)
+### Superset 1
+bike\
+coffee & sausage biscuits
+
+### Superset 2
+driving range or mow lawn\
+put something on the smoker\
+summer shandy
+
+### Superset 3
+whiskey drink\
+bbq\
+beer
+
+## Sunday (optionally repeat Saturday's schedule here)
+### Superset 1
+Church\
+pancakes & sausage
+
+### Superset 2
+golf of bike\
+wine & charcutery
+
+### Superset 3
+nap
+
+### Superset 4
+family dinner\
+sunset\
+early bedtime
