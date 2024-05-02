@@ -47,7 +47,7 @@ deadlift
 
 ### Superset 2
 rope face pulls\
-pull down machine\
+45%deg; pull down machine\
 bicep curls
 
 ## Friday (heavy fun stuff)
